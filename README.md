@@ -8,7 +8,7 @@ This is a simple project named "Pricing Panel" created with an assistance from C
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://pricing-panel-project-iota.vercel.app/)
+- Live Site URL: [Click here for live view](https://pricing-panel-project-iota.vercel.app/)
 
 ### Built with
 
